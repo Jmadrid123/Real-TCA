@@ -1,0 +1,19 @@
+td{
+    width: 100px;
+}
+td.title{
+    font-size: 60px;
+    width: 1500px;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+}
+td.smaller{
+    text-align: center;
+    font-family:  "Roboto", sans-serif;
+    font-weight: bold;
+}
+img.img{
+    margin-left: 10;
+    height: 35%;
+    width: 35%;
+}
